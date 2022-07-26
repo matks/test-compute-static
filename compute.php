@@ -1,3 +1,3 @@
 <?php
 
-file_put_contents(__DIR__.'/generated/index.html', 'It works!');
+file_put_contents(__DIR__.'/docs/index.html', 'It works!');
